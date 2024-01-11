@@ -1,0 +1,56 @@
+[
+  {
+    "image": "/images/firs.png",
+    "title": "Period empowered project",
+    "companyName": "verticalsol",
+    "goal": 6000,
+    "raised": 23,
+    "currency": "AED",
+    "percentage": "%"
+  },
+  {
+    "image": "/images/firs.png",
+    "title": "Period empowered project",
+    "companyName": "topedge",
+    "goal": 6000,
+    "raised": 23,
+    "currency": "AED",
+    "percentage": "%"
+  },
+  {
+    "image": "/images/firs.png",
+    "title": "Period empowered project",
+    "companyName": "systems",
+    "goal": 6000,
+    "raised": 23,
+    "currency": "AED",
+    "percentage": "%"
+  },
+  {
+    "image": "/images/firs.png",
+    "title": "Period empowered project",
+    "companyName": "netsole",
+    "goal": 6000,
+    "raised": 23,
+    "currency": "AED",
+    "percentage": "%"
+  },
+  {
+    "image": "/images/firs.png",
+    "title": "Period empowered project",
+    "companyName": "twin",
+    "goal": 6000,
+    "raised": 23,
+    "currency": "AED",
+    "percentage": "%"
+  },
+  {
+    "image": "/images/firs.png",
+    "title": "Period empowered project",
+    "companyName": "mux",
+    "goal": 6000,
+    "raised": 23,
+    "currency": "AED",
+    "percentage": "%"
+  }
+]
